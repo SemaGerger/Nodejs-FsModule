@@ -1,7 +1,6 @@
 //! 2. ders by Sadik Turan 
 
 //* DOWNLOAD
-//* 1.) Before i use "Better Comments extention" for my comments lines
 //* 2.) Download nodejs. if I see to port on the Terminal we write the terminal this "node index.js"
 //* 3.) I download library from Expresjs.com with this " npm i express@4.18.1" and BEFORE we get package.json file with terminal "npm init --yes" because program must know how to use library
 //* 4.) I want easy way for changes and then l download "npm i nodemon" from terminal (note: if l write to terminal this "npm list -g" i can see node_modules)
